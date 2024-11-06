@@ -1,3 +1,2 @@
 # Happy
-Hey
-What's up
+This project is about a simple card.
